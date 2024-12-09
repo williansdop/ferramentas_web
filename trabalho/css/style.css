@@ -1,0 +1,122 @@
+#header{
+    border: 2px solid rgba(37, 92, 6, 0.986);
+    font-family: Arial, Helvetica, sans-serif; 
+    width: 95vw;
+    margin: 0 auto;
+    border-radius: 20px;
+    background-color: #25aeb2;
+    text-align: center;
+    padding: 10px;
+    box-shadow: 5px 5px 15px;
+    margin-bottom: 50px;
+}
+
+li{
+    font-family: Arial, Helvetica, sans-serif; 
+    font-size: 15px;
+    padding: 8px;
+}
+
+pre{
+    font-family: Arial, Helvetica, sans-serif; 
+    font-size: 15px;
+    padding: 8px;
+}
+
+h2{
+    font-family: Arial, Helvetica, sans-serif; 
+    font-size: 15px;
+    padding: 8px;
+}
+
+#title2{
+    font-family: Arial, Helvetica, sans-serif; 
+    font-size: 20px;
+    padding: 10px;
+}
+
+.myphoto{
+    border:5px solid rgba(37, 92, 6, 0.986);
+    border-radius: 20px;
+    position: absolute;
+    right: 50px;
+    top: 30px;
+    width: 200px;
+}
+
+.icon{
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.link-description{
+    font-family: Arial, Helvetica, sans-serif;
+    color:black;
+    position: absolute;
+    top: 55%;
+    left: 50%;
+    transform: translate(-50%, 0%);
+    text-align: center;
+}
+
+.link-description:link{
+    color:black;
+    text-decoration: none;
+}
+
+.link-description:visited{
+    color: rgba(37, 92, 6, 0.986);
+    text-decoration: none;
+}
+
+.clickable-frame{
+    border: 2px solid rgba(37, 92, 6, 0.986);
+    width: 100px;
+    height: 100px;
+    border-radius: 20px;
+    background-color: #25aeb2;
+    padding:10px;
+    box-shadow: 5px 5px 15px;
+}
+
+.clickable-frame-position-1{
+    position: absolute;
+    top: 200px;
+    left: 520px;
+}
+
+.clickable-frame-position-2{
+    position: absolute;
+    top: 200px;
+    left: 720px;
+}
+
+.clickable-frame-position-3{
+    position: absolute;
+    top: 400px;
+    left: 720px;
+}
+
+.clickable-frame-position-4{
+    position: absolute;
+    top: 400px;
+    left: 520px;
+}
+
+.information-frame{
+    position: static;
+    border: 2px solid rgba(37, 92, 6, 0.986);
+    font-family: Arial, Helvetica, sans-serif; 
+    width: 70vw;
+    margin: 15px;
+    border-radius: 20px;
+    background-color: #25aeb2;
+    text-align: left;
+    padding: 20px;
+    box-shadow: 5px 5px 15px;
+    margin-bottom: 30px;
+}
